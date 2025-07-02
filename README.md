@@ -1,16 +1,70 @@
-## Hi there 👋
 
-<!--
-**Lilly-020/Lilly-020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Contador de visitas -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lillycardoso.lillycardoso" />
 
-Here are some ideas to get you started:
+<!-- Título com typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+a+Lilly!+🐱;+Seja+Bem-vindo(a)+ao+meu+perfil!" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Descrição centralizada -->
+<h3 align="center">Desenvolvedora apaixonada por tecnologia, gatinhos e soluções criativas.</h3>
+
+<!-- GIF animado personalizado -->
+<div align="center">
+  <img src="assets/gatinho.gif" alt="gatinho pixel animado" width="200"/>
+</div>
+
+<br/>
+
+<!-- Sobre mim -->
+<div align="center">
+
+🔭 Atualmente trabalhando em **projetos com FastAPI e interfaces web**  
+🌱 Aprendendo cada vez mais sobre **backend, frontend e boas práticas**  
+🐾 Criadora de uma API de Gatinhos para um jogo de cartas (e sim, tem fofura demais)  
+💬 Me pergunte sobre **Python, FastAPI, HTML, CSS, JS... ou gatinhos também vale 🐱**  
+⚡ Curiosidade: **Meu primeiro projeto foi dedicado ao meu pai 💚**  
+
+</div>
+
+---
+
+<!-- Contatos -->
+<div align="center"> 
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/lillyan-cardoso-zalamena-39a64a287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<!-- Habilidades -->
+<h2 align="center">⚒️ Tecnologias e Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,vscode,github,git" />
+</div>
+
+<hr/>
+
+<!-- Estatísticas GitHub (pode personalizar username depois) -->
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lillycardoso&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=lillycardoso&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lillycardoso&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<!-- Mensagem final com typing svg -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigada+pela+visita!+✌️;+Vamos+colaborar+em+algo+juntos?+;Me+chama+no+LinkedIn+💬">
+</h3>
