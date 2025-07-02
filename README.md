@@ -4,7 +4,7 @@
 
 <!-- Título com typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+a+Lilly!+🐱;+Seja+Bem-vindo(a)+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+a+Lilly!+🐱;+Seja+Bem-vindo(a)!" />
 </h1>
 
 <!-- Descrição centralizada -->
@@ -21,8 +21,7 @@
 <div align="center">
 
 🔭 Atualmente trabalhando em **projetos com FastAPI e interfaces web**  
-🌱 Aprendendo cada vez mais sobre **backend, frontend e boas práticas**  
-🐾 Criadora de uma API de Gatinhos para um jogo de cartas (e sim, tem fofura demais)  
+🌱 Aprendendo cada vez mais sobre **backend, frontend e boas práticas**    
 💬 Me pergunte sobre **Python, FastAPI, HTML, CSS, JS... ou gatinhos também vale 🐱**  
 ⚡ Curiosidade: **Meu primeiro projeto foi dedicado ao meu pai 💚**  
 
